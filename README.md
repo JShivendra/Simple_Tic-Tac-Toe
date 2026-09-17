@@ -3,9 +3,10 @@ C++ Tic-Tac-Toe
 A simple two-player Tic-Tac-Toe game made in C++ and played through the command line.
 
 Features
-  Two-player gameplay
-  3x3 game board
-  Player turn handling
+   
+	 Two-player gameplay
+	 3x3 game board
+	 Player turn handling
   Position selection using numbers 1-9
   Win detection for rows, columns, and diagonals
   Tie detection
